@@ -1,2 +1,2 @@
-- [Go to the latest training](<./0000/>){.hero-cta .hero-cta--primary}
-- [Sign up](<https://example.org/registration>){.hero-cta .hero-cta--secondary}
+- [Go to the latest training](<./2711/>){.hero-cta .hero-cta--primary}
+- [Register now](<https://www.registration.com>){.hero-cta .hero-cta--secondary}

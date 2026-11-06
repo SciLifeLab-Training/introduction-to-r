@@ -83,30 +83,23 @@ instances:
   #
   # Keep the indentation exactly as in the examples: "- slug:" is indented
   # by two spaces, and the other fields of the entry by four.
-
-  - slug: "0000"
-    label: "September 2026"
+  
+  - slug: "2711"
+    label: "November 2027"
     status: current
     visible: true
     show_in_hero: true
-    instance_url: "./0000/"
-    registration_url: "https://example.org/registration"
-    sort_key: 202609
+    instance_url: "./2711/"
+    registration_url: "https://www.registration.com"
+    sort_key: 202711
 
-  - slug: "2505"
-    label: "May 2025"
+  - slug: "2706"
+    label: "June 2027"
     status: previous
     visible: true
     show_in_hero: false
-    instance_url: "./2505/"
+    instance_url: "./2706/"
     registration_url: ""
-    sort_key: 202505
+    sort_key: 202706
 
-  - slug: "2411"
-    label: "November 2024"
-    status: previous
-    visible: false
-    show_in_hero: false
-    instance_url: "./2411/"
-    registration_url: ""
-    sort_key: 202411
+

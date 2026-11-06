@@ -71,7 +71,7 @@ website:
     # Button that links to the registration of the current instance.
     # Only shown when the current instance has a registration_url in
     # data/instances.yml.
-    hero_registration_open_label: "Sign up"
+    hero_registration_open_label: "Register now"
     # Heading of the banner that lists all training instances.
     instances_band_title: "All training instances"
 

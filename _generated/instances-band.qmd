@@ -3,6 +3,6 @@ All training instances
 :::
 
 ::: {.instance-grid .instance-grid--band}
-- [September 2026](<./0000/>){.instance-pill .instance-pill--current}
-- [May 2025](<./2505/>){.instance-pill}
+- [November 2027](<./2711/>){.instance-pill .instance-pill--current}
+- [June 2027](<./2706/>){.instance-pill}
 :::

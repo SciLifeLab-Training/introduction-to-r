@@ -44,41 +44,37 @@ team:
     # --------------------------------------------------
     # Founders
     # --------------------------------------------------
-
-    - given_names: "Firstname1"
-      family_names: "Lastname1"
+    - given_names: "Anna"
+      family_names: "Lindqvist"
       roles:
         - Founder
-      affiliation: "Institution or organisation"
-      orcid: ""
-      email: ""
-      course_contact: false
+      affiliation: "SciLifeLab Training Hub, Uppsala University"
+      orcid: "https://orcid.org/0000-0002-1825-0097"
+      email: "anna.lindqvist@example.org"
+      course_contact: true
       citation_author: true
 
-    - given_names: "Firstname2"
-      family_names: "Lastname2"
+    - given_names: "Pieter"
+      family_names: "van der Berg"
       roles:
         - Founder
-      affiliation: "Institution or organisation"
-      orcid: ""
+      affiliation: "Karolinska Institutet"
       citation_author: true
 
     # --------------------------------------------------
     # Contributors
     # --------------------------------------------------
-
-    - given_names: "Firstname3"
-      family_names: "Lastname3"
+    - given_names: "Maria Elena"
+      family_names: "Santos"
       roles:
         - Contributor
-      affiliation: "Institution or organisation"
+      affiliation: "Stockholm University"
       orcid: ""
       citation_author: true
 
-    - given_names: "Firstname4"
-      family_names: "Lastname4"
+    - given_names: "Jonas"
+      family_names: "Ek"
       roles:
         - Contributor
-      affiliation: "Institution or organisation"
-      orcid: ""
-      citation_author: true
+      affiliation: "SciLifeLab Data Centre"
+      citation_author: false

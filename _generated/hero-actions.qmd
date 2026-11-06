@@ -1,2 +1,2 @@
-- [Take me to the current instance](<./0000/>){.hero-cta .hero-cta--primary}
-- [Register now](<https://example.org/registration>){.hero-cta .hero-cta--secondary}
+- [Go to the latest training](<./0000/>){.hero-cta .hero-cta--primary}
+- [Sign up](<https://example.org/registration>){.hero-cta .hero-cta--secondary}

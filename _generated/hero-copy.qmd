@@ -1,7 +1,7 @@
 :::{.hero__title}
-Training title
+Introduction to R
 :::
 
 :::{.hero__subtitle}
-Training subtitle
+Learn to explore, analyse and visualise your research data with R
 :::

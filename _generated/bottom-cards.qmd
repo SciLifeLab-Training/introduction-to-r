@@ -8,8 +8,8 @@
 </div>
 
 :::{.people-list}
-- Firstname1 Lastname1
-- Firstname2 Lastname2
+- Anna Lindqvist
+- Pieter van der Berg
 :::
 :::
 
@@ -22,8 +22,8 @@
 </div>
 
 :::{.people-list}
-- Firstname3 Lastname3
-- Firstname4 Lastname4
+- Maria Elena Santos
+- Jonas Ek
 :::
 :::
 :::

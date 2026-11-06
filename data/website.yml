@@ -20,7 +20,7 @@ website:
   # CITATION.cff and .zenodo.json describe your training, from
   # data/course.yml and data/team.yml.
 
-  template: true
+  template: false
 
   # ==================================================
   # Hero
@@ -59,10 +59,6 @@ website:
         height: 56
         primary: true
 
-      # - src: "img/logos/partner-logo.svg"
-      #   alt: "Partner organisation"
-      #   height: 40
-
   # ==================================================
   # Labels
   # ==================================================
@@ -71,11 +67,11 @@ website:
 
   labels:
     # Button that links to the current training instance.
-    hero_view_current_label: "Take me to the current instance"
+    hero_view_current_label: "Go to the latest training"
     # Button that links to the registration of the current instance.
     # Only shown when the current instance has a registration_url in
     # data/instances.yml.
-    hero_registration_open_label: "Register now"
+    hero_registration_open_label: "Sign up"
     # Heading of the banner that lists all training instances.
     instances_band_title: "All training instances"
 
@@ -86,7 +82,7 @@ website:
   # The decorative image on the left of the banner.
 
   instances_band:
-    image: "img/images/navet-band.png"
+    image: "img/images/intro-r-band.png"
 
   # ==================================================
   # Footer

@@ -8,11 +8,14 @@
 </div>
 
 :::{.card-copy}
-Description of the content of the training.
+This training introduces R, a **free and widely used programming language
+for data analysis and statistics**. It is designed for researchers who
+work with data, but have little or no programming experience.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pharetra vehicula est non feugiat. Maecenas nec cursus eros, at consectetur enim. Ut tincidunt eros ipsum, ut tempor tortor eleifend eu.
-
-Aliquam hendrerit dui tristique felis faucibus semper. Integer placerat, mauris id tempus ultricies, felis magna ultricies risus, nec ullamcorper nisi justo ut mi. Duis scelerisque molestie sollicitudin.
+Through short demonstrations and hands-on exercises, you learn how to
+read data into R, clean and reshape it, summarise it, and create
+publication-quality plots. You work with real research data throughout,
+and leave with code you can reuse for your own projects.
 :::
 :::
 
@@ -25,9 +28,11 @@ Aliquam hendrerit dui tristique felis faucibus semper. Integer placerat, mauris 
 </div>
 
 :::{.card-copy}
-1. Learning outcome 1
-2. Learning outcome 2
-3. Learning outcome 3
+1. Use RStudio to write and run R code, and organise your work in projects
+2. Read data from spreadsheet and text files into R
+3. Clean, filter and reshape data with the tidyverse
+4. Summarise data with descriptive statistics
+5. Create and customise plots with ggplot2
 :::
 :::
 
@@ -40,10 +45,10 @@ Aliquam hendrerit dui tristique felis faucibus semper. Integer placerat, mauris 
 </div>
 
 :::{.card-copy}
-- Keyword 1
-- Keyword 2
-- Keyword 3
-- Keyword 4
+- R
+- Data analysis
+- Data visualisation
+- Reproducible research
 :::
 :::
 
@@ -56,10 +61,11 @@ Aliquam hendrerit dui tristique felis faucibus semper. Integer placerat, mauris 
 </div>
 
 :::{.card-copy}
-- Topic 1
-- Topic 2
-- Topic 3
-- Topic 4
+- R and RStudio basics
+- Data import
+- Data wrangling with the tidyverse
+- Descriptive statistics
+- Plotting with ggplot2
 :::
 :::
 :::

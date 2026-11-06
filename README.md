@@ -1,150 +1,101 @@
-# SciLifeLab Training Webpage Template
+<!-- generated:header -->
+# Introduction to R
 
-The SciLifeLab Training Webpage Template is a Quarto-based template for
-creating, publishing and maintaining FAIR, reusable training websites
-with GitHub Pages.
+[![Licence](https://img.shields.io/badge/licence-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
-The published template is available at:
+*Learn to explore, analyse and visualise your research data with R*
 
-**[SciLifeLab Training Webpage Template](https://scilifelab-training.github.io/scilifelab-training-template/)**
+This training introduces R, a **free and widely used programming language for data analysis and statistics**. It is designed for researchers who work with data, but have little or no programming experience. Through short demonstrations and hands-on exercises, you learn how to read data into R, clean and reshape it, summarise it, and create publication-quality plots. You work with real research data throughout, and leave with code you can reuse for your own projects.
+<!-- /generated:header -->
 
-The template provides:
+<!-- Write this yourself -->
 
-- a landing page with general information about a training, on the
-  `main` branch;
-- separate training instances, each maintained in a `release-YYMM`
-  branch;
-- automated publication of the landing page and training instances
-  through GitHub Pages;
-- citation, archiving and discovery metadata (`CITATION.cff`,
-  `.zenodo.json` and Bioschemas) generated from the same data files.
+This repository contains the website and teaching materials for this
+training. The `main` branch holds the landing page, which lists all
+instances of the training. Each `release-YYMM` branch holds one instance
+(one time the training is given) and is published as its own website.
 
-> [!IMPORTANT]
-> **On every branch, you only edit a few things:**
->
-> 1. **`README.md`**: a few short sections, after replacing this README
->    with the [README template](docs/_template-README.md).
-> 2. **`data/`**: the information about the training.
-> 3. **`content/`** (training instances only): the training materials.
-> 4. **`instructors/`** (training instances only): notes for
->    instructors: timing, preparation and teaching notes.
->
-> Everything else (the website layout, styling and scripts) works as it
-> is. `CITATION.cff` and `.zenodo.json` are generated automatically from
-> the data files: do not edit them by hand.
+<!-- End of write this yourself. -->
 
-## User Guide
+<!-- generated:course-information -->
+## Training information
 
-New to the template? See the **[SciLifeLab Training Webpage Template User Guide](https://scilifelab-training.github.io/scilifelab-training-template-user-guide/)**.
+- **Website:** <https://scilifelab-training.github.io/introduction-to-r/>
+- **Target audience:** Researchers and PhD students in the life sciences who want to analyse their own data, with little or no programming experience
+- **Expertise level:** Beginner
+- **Language:** English
+<!-- /generated:course-information -->
 
-The User Guide provides step-by-step instructions for:
+<!-- generated:learning-outcomes -->
+## Learning outcomes
 
-- creating your own copy of the template and previewing it on your computer;
-- setting up the landing page;
-- creating a training instance and adding your materials;
-- preparing your training materials for publication, citation, and reuse following FAIR principles.
+After completing this training, participants will be able to:
 
-## Setting up the landing page
+- Use RStudio to write and run R code, and organise your work in projects
+- Read data from spreadsheet and text files into R
+- Clean, filter and reshape data with the tidyverse
+- Summarise data with descriptive statistics
+- Create and customise plots with ggplot2
+<!-- /generated:learning-outcomes -->
 
-The landing page is built from four data files:
+## Training instances
 
-| File | Contents |
-|---|---|
-| `data/course.yml` | title, description, learning outcomes, keywords, topics, licence and DOI of the training |
-| `data/team.yml` | the founders and contributors of the training |
-| `data/website.yml` | logos, button labels, banner image and footer |
-| `data/instances.yml` | the training instances, and which one is current |
+<!-- Write this yourself: the instances are listed on the landing page.
+     You can also list them here, with a link to each release-YYMM
+     branch and its website. -->
 
-When you start using the template for your own training:
+See the landing page for all instances of this training. The materials
+of each instance are on its own `release-YYMM` branch.
 
-1. In `data/website.yml`, set `template: false`. This removes the
-   template banner, and makes `CITATION.cff` and `.zenodo.json` describe
-   your training instead of the template.
-2. Replace this README with the [README template](docs/_template-README.md):
-   copy the contents of `docs/_template-README.md` over `README.md`, and
-   fill in the parts marked "Write this yourself". The other parts are
-   filled in automatically from your data files.
-3. Fill in the data files.
-4. Push to `main`. GitHub Actions renders the landing page, updates the
-   generated files, and publishes the landing page.
-
-You can then delete the `_template/` folder: it contains the citation
-information of the template itself, which is only used while
-`template` is `true`.
-
-## Working locally
-
-The website is built with [Quarto](https://quarto.org/).
-
-After cloning the repository, create and activate the Python virtual
-environment:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-Install the required dependencies:
-
-```bash
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-```
-
-Preview the site with:
-
-```bash
-python scripts/preview.py
-```
-
-This builds the generated files, starts the preview, and updates it
-whenever you save a data file. Stop it with Ctrl+C.
-
-## Development and maintenance
-
-Technical documentation for developers and maintainers of the template
-is available in [`docs/developer/`](docs/developer/). This includes the
-landing page architecture, validation, generated files and deployment.
+<!-- End of write this yourself. -->
 
 <!-- generated:contributors -->
 ## Contributors
 
 | Name | Role | ORCID | Affiliation |
 |------|------|-------|-------------|
-| Ineke Luijten | Founder | [0000-0001-5768-275X](https://orcid.org/0000-0001-5768-275X) | SciLifeLab Training Hub |
-| Nina Norgren | Founder | [0000-0002-3823-1555](https://orcid.org/0000-0002-3823-1555) | SciLifeLab Training Hub |
-| Dimitris Panouris | Founder | [0009-0005-2282-2982](https://orcid.org/0009-0005-2282-2982) | SciLifeLab Training Hub |
+| Anna Lindqvist | Founder | [0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097) | SciLifeLab Training Hub, Uppsala University |
+| Pieter van der Berg | Founder |  | Karolinska Institutet |
+| Maria Elena Santos | Contributor |  | Stockholm University |
+| Jonas Ek | Contributor |  | SciLifeLab Data Centre |
 <!-- /generated:contributors -->
 
-## Contributing to the template
+## Contributing
 
-We welcome feedback and contributions to the template itself, such as
-bug reports, ideas for new features, and improvements to the layout,
-scripts or documentation.
+<!-- Write this yourself. -->
 
-- **Report a problem or suggest an improvement:** open an issue in the
-  [template repository](https://github.com/SciLifeLab-Training/scilifelab-training-template/issues).
-- **Propose a change:** fork the
-  [template repository](https://github.com/SciLifeLab-Training/scilifelab-training-template)
-  and open a pull request. Changes to the landing page go to `main`,
-  and changes to the training instance pages go to `release-0000`.
+Found a mistake, or have an idea for improving this training? You're
+welcome to contribute. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to
+report a problem or suggest a change, on the landing page or in the
+materials of a training instance.
 
-The [CONTRIBUTING.md](CONTRIBUTING.md) file in this repository is part
-of the template: it explains how to contribute to a **training** made
-with the template, not to the template itself.
+<!-- End of write this yourself. -->
 
 <!-- generated:citation -->
 ## Citation
 
-If you use this software, please cite it as:
+If you use these materials, please cite them as:
 
-> Luijten, I.; Norgren, N.; Panouris, D. SciLifeLab Training Webpage Template. Version 1.0.0-alpha. https://scilifelab-training.github.io/scilifelab-training-template/
+> Lindqvist, A.; van der Berg, P.; Santos, M. E. Introduction to R. https://scilifelab-training.github.io/introduction-to-r/
 
 Citation metadata is available in [CITATION.cff](CITATION.cff).
 <!-- /generated:citation -->
 
+<!-- generated:licence -->
 ## Licence
 
-Unless otherwise stated, the SciLifeLab Training Webpage Template is
-licensed under the
-[Creative Commons Attribution 4.0 International (CC BY 4.0) licence](https://creativecommons.org/licenses/by/4.0/).
+Unless otherwise stated, the training materials are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+<!-- /generated:licence -->
+
+<!-- generated:acknowledgements -->
+## Acknowledgements
+
+This training was funded by:
+
+- Introduction to R funder, Introduction to R (grant 101057388)
+<!-- /generated:acknowledgements -->
+
+---
+
+This website was built with the
+[SciLifeLab Training Webpage Template](https://github.com/SciLifeLab-Training/scilifelab-training-template).

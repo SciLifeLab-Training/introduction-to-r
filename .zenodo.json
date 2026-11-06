@@ -1,41 +1,41 @@
 {
-  "title": "SciLifeLab Training Webpage Template",
-  "upload_type": "software",
-  "description": "<p>A Quarto-based template for creating, publishing and maintaining FAIR, reusable training websites with GitHub Pages. A landing page lists all instances of a training, and each training instance has its own website with an overview, schedule, content pages, syllabus and information pages, generated from structured data files.</p>\n<p>Website: <a href=\"https://scilifelab-training.github.io/scilifelab-training-template/\">https://scilifelab-training.github.io/scilifelab-training-template/</a></p>",
+  "title": "Introduction to R",
+  "upload_type": "lesson",
+  "description": "<p>This training introduces R, a **free and widely used programming language for data analysis and statistics**. It is designed for researchers who work with data, but have little or no programming experience. Through short demonstrations and hands-on exercises, you learn how to read data into R, clean and reshape it, summarise it, and create publication-quality plots. You work with real research data throughout, and leave with code you can reuse for your own projects.</p>\n<p>Training website: <a href=\"https://scilifelab-training.github.io/introduction-to-r/\">https://scilifelab-training.github.io/introduction-to-r/</a></p>\n<p>Funded by: Introduction to R funder, Introduction to R (grant 101057388).</p>",
   "creators": [
     {
-      "name": "Luijten, Ineke",
-      "affiliation": "SciLifeLab Training Hub",
-      "orcid": "0000-0001-5768-275X"
+      "name": "Lindqvist, Anna",
+      "affiliation": "SciLifeLab Training Hub, Uppsala University",
+      "orcid": "0000-0002-1825-0097"
     },
     {
-      "name": "Norgren, Nina",
-      "affiliation": "SciLifeLab Training Hub",
-      "orcid": "0000-0002-3823-1555"
+      "name": "van der Berg, Pieter",
+      "affiliation": "Karolinska Institutet"
     },
     {
-      "name": "Panouris, Dimitris",
-      "affiliation": "SciLifeLab Training Hub",
-      "orcid": "0009-0005-2282-2982"
+      "name": "Santos, Maria Elena",
+      "affiliation": "Stockholm University"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Ek, Jonas",
+      "affiliation": "SciLifeLab Data Centre",
+      "type": "Other"
     }
   ],
   "keywords": [
-    "training",
-    "training materials",
-    "course website",
-    "template",
-    "Quarto",
-    "GitHub Pages",
-    "FAIR",
-    "open educational resources"
+    "R",
+    "Data analysis",
+    "Data visualisation",
+    "Reproducible research"
   ],
   "license": "cc-by-4.0",
   "access_right": "open",
-  "version": "1.0.0-alpha",
   "language": "eng",
   "related_identifiers": [
     {
-      "identifier": "https://scilifelab-training.github.io/scilifelab-training-template/",
+      "identifier": "https://scilifelab-training.github.io/introduction-to-r/",
       "relation": "isSupplementedBy",
       "resource_type": "other"
     }

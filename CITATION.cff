@@ -1,32 +1,31 @@
-# This file is generated automatically from the data files in _template/. Do not edit it by hand: edit the data files instead.
+# This file is generated automatically from the data files in data/. Do not edit it by hand: edit the data files instead.
 # Validate with: cffconvert --validate
 cff-version: 1.2.0
-message: If you use this software, please cite it as below.
-title: SciLifeLab Training Webpage Template
-abstract: A Quarto-based template for creating, publishing and maintaining FAIR, reusable training websites with GitHub Pages. A landing page lists all instances of a training, and each training instance has its own website with an overview, schedule, content pages, syllabus and information pages, generated from structured data files.
+message: If you use or reuse these training materials, please cite them as below.
+title: Introduction to R
+abstract: This training introduces R, a **free and widely used programming language for data analysis and statistics**. It is designed for researchers who work with data, but have little or no programming experience. Through short demonstrations and hands-on exercises, you learn how to read data into R, clean and reshape it, summarise it, and create publication-quality plots. You work with real research data throughout, and leave with code you can reuse for your own projects.
 authors:
-- family-names: Luijten
-  given-names: Ineke
-  affiliation: SciLifeLab Training Hub
-  orcid: https://orcid.org/0000-0001-5768-275X
-- family-names: Norgren
-  given-names: Nina
-  affiliation: SciLifeLab Training Hub
-  orcid: https://orcid.org/0000-0002-3823-1555
-- family-names: Panouris
-  given-names: Dimitris
-  affiliation: SciLifeLab Training Hub
-  orcid: https://orcid.org/0009-0005-2282-2982
+- family-names: Lindqvist
+  given-names: Anna
+  affiliation: SciLifeLab Training Hub, Uppsala University
+  orcid: https://orcid.org/0000-0002-1825-0097
+- family-names: van der Berg
+  given-names: Pieter
+  affiliation: Karolinska Institutet
+- family-names: Santos
+  given-names: Maria Elena
+  affiliation: Stockholm University
+contact:
+- family-names: Lindqvist
+  given-names: Anna
+  affiliation: SciLifeLab Training Hub, Uppsala University
+  orcid: https://orcid.org/0000-0002-1825-0097
+  email: anna.lindqvist@example.org
 keywords:
-- training
-- training materials
-- course website
-- template
-- Quarto
-- GitHub Pages
-- FAIR
-- open educational resources
+- R
+- Data analysis
+- Data visualisation
+- Reproducible research
 license: CC-BY-4.0
-url: https://scilifelab-training.github.io/scilifelab-training-template/
-repository-code: https://github.com/SciLifeLab-Training/scilifelab-training-template
-version: 1.0.0-alpha
+url: https://scilifelab-training.github.io/introduction-to-r/
+repository-code: https://github.com/SciLifeLab-Training/introduction-to-r

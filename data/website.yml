@@ -20,7 +20,7 @@ website:
   # Set this to false when you create your first training instance:
   # the banner disappears.
 
-  template: true
+  template: false
 
   # ==================================================
   # Banner for older instances

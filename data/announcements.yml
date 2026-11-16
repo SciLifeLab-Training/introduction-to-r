@@ -1,60 +1,25 @@
 announcements:
 
-# OPTIONAL 
-
-  # This file contains announcements for participants. They are shown on
-  # the Announcements page, newest first. The two most recent
-  # announcements are also shown on the overview page.
-
-  # ==================================================
-  # Leaving information out
-  # ==================================================
-  #
-  # Announcements are optional. Without announcements, the Announcements
-  # page is left out of the navbar, and the overview page shows
-  # "No active announcements."
-  #
-  # - To remove one announcement, delete it from its "- date:" line down to
-  #   the end of its text.
-  # - To have no announcements, delete all items, or empty or delete this
-  #   file.
-  #
-  # Every announcement needs a date, a title and a text. Do not leave
-  # these empty.
-
-  # --------------------------------------------------
-  # Page introduction
-  # --------------------------------------------------
-
   intro: >
-    Use this page to provide participants with short updates and important information about the training.
-
-  # --------------------------------------------------
-  # Announcements
-  # --------------------------------------------------
-  #
-  # Add one entry for each announcement.
-  #
-  # "date" should use ISO format: YYYY-MM-DD.
-  # Announcements are automatically ordered by date,
-  # with the newest announcement shown first.
+    News and updates about Introduction to R. The newest announcements
+    are shown first.
 
   items:
 
-    - date: 2026-01-01
-      title: "Announcement title"
+    - date: 2027-02-01
+      title: "Registration is open"
       text: >
-        Provide a short update or important information
-        for participants.
+        You can now register for Introduction to R, until 15 April. Places
+        are limited to 25 participants.
 
-    - date: 2026-01-02
-      title: "Announcement title"
+    - date: 2027-04-20
+      title: "Install R and RStudio before the training"
       text: >
-        Provide a short update or important information
-        for participants.
+        Please install R and RStudio on your laptop before 10 May, and
+        download the course data. The Preparation page explains how.
 
-    - date: 2026-01-03
-      title: "Announcement title"
+    - date: 2027-05-10
+      title: "Day 1 starts in Air & Fire"
       text: >
-        Provide a short update or important information
-        for participants.
+        On Monday 17 May, we start at 9:00 in Air & Fire, on the ground
+        floor. Coffee is served from 8:30.

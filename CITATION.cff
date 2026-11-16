@@ -2,29 +2,30 @@
 # Validate with: cffconvert --validate
 cff-version: 1.2.0
 message: If you use or reuse these training materials, please cite them as below.
-title: Training title
-abstract: Provide a short description of the training, including its main topic, purpose, or focus.
+title: Introduction to R
+abstract: This training introduces R, a free and widely used programming language for data analysis and statistics. It is designed for researchers who work with data, but have little or no programming experience. Through short demonstrations and hands-on exercises, you learn how to read data into R, clean and reshape it, summarise it, and create publication-quality plots. You work with real research data throughout, and leave with code you can reuse for your own projects.
 authors:
-- family-names: Lastname1
-  given-names: Firstname1
-  affiliation: Institution or organisation
-  orcid: https://orcid.org/0000-0000-0000-0000
-- family-names: Lastname2
-  given-names: Firstname2
-  affiliation: Institution or organisation
-- family-names: Lastname3
-  given-names: Firstname3
-  affiliation: Institution or organisation
+- family-names: Lindqvist
+  given-names: Anna
+  affiliation: SciLifeLab Training Hub, Uppsala University
+  orcid: https://orcid.org/0000-0002-1825-0097
+- family-names: van der Berg
+  given-names: Pieter
+  affiliation: NBIS, Karolinska Institutet
+- family-names: Santos
+  given-names: Maria Elena
+  affiliation: Stockholm University
 contact:
-- family-names: Lastname1
-  given-names: Firstname1
-  affiliation: Institution or organisation
-  orcid: https://orcid.org/0000-0000-0000-0000
-  email: training.lead@example.org
+- family-names: Lindqvist
+  given-names: Anna
+  affiliation: SciLifeLab Training Hub, Uppsala University
+  orcid: https://orcid.org/0000-0002-1825-0097
+  email: anna.lindqvist@example.org
 keywords:
-- Keyword 1
-- Keyword 2
-- Keyword 3
+- R
+- Data analysis
+- Data visualisation
+- Reproducible research
 license: CC-BY-4.0
 url: https://scilifelab-training.github.io/introduction-to-r/2706/
 repository-code: https://github.com/SciLifeLab-Training/introduction-to-r

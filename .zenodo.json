@@ -1,43 +1,39 @@
 {
-  "title": "Training title",
+  "title": "Introduction to R",
   "upload_type": "lesson",
-  "description": "<p>Provide a short description of the training, including its main topic, purpose, or focus.</p>\n<p>Training dates: 2026-01-01 – 2026-01-02.</p>\n<p>Training website: <a href=\"https://scilifelab-training.github.io/introduction-to-r/2706/\">https://scilifelab-training.github.io/introduction-to-r/2706/</a></p>\n<p>Funded by: Name of funding organisation.</p>",
+  "description": "<p>This training introduces R, a free and widely used programming language for data analysis and statistics. It is designed for researchers who work with data, but have little or no programming experience. Through short demonstrations and hands-on exercises, you learn how to read data into R, clean and reshape it, summarise it, and create publication-quality plots. You work with real research data throughout, and leave with code you can reuse for your own projects.</p>\n<p>Training dates: 2027-05-17 – 2027-05-19.</p>\n<p>Training website: <a href=\"https://scilifelab-training.github.io/introduction-to-r/2706/\">https://scilifelab-training.github.io/introduction-to-r/2706/</a></p>\n<p>Funded by: Introduction to R funder, Introduction to R (grant 101057388).</p>",
   "creators": [
     {
-      "name": "Lastname1, Firstname1",
-      "affiliation": "Institution or organisation",
-      "orcid": "0000-0000-0000-0000"
+      "name": "Lindqvist, Anna",
+      "affiliation": "SciLifeLab Training Hub, Uppsala University",
+      "orcid": "0000-0002-1825-0097"
     },
     {
-      "name": "Lastname2, Firstname2",
-      "affiliation": "Institution or organisation"
+      "name": "van der Berg, Pieter",
+      "affiliation": "NBIS, Karolinska Institutet"
     },
     {
-      "name": "Lastname3, Firstname3",
-      "affiliation": "Institution or organisation"
+      "name": "Santos, Maria Elena",
+      "affiliation": "Stockholm University"
     }
   ],
   "contributors": [
     {
-      "name": "Lastname4, Firstname4",
-      "affiliation": "Institution or organisation",
-      "orcid": "0000-0000-0000-0000",
-      "type": "Other"
-    },
-    {
-      "name": "Lastname5, Firstname5",
-      "affiliation": "Institution or organisation",
+      "name": "Ek, Jonas",
+      "affiliation": "SciLifeLab Data Centre",
       "type": "Other"
     }
   ],
   "keywords": [
-    "Keyword 1",
-    "Keyword 2",
-    "Keyword 3"
+    "R",
+    "Data analysis",
+    "Data visualisation",
+    "Reproducible research"
   ],
   "license": "cc-by-4.0",
   "access_right": "open",
   "version": "2706",
+  "language": "eng",
   "related_identifiers": [
     {
       "identifier": "https://scilifelab-training.github.io/introduction-to-r/2706/",

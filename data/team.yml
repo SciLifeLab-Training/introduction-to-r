@@ -60,142 +60,46 @@ team:
   # --------------------------------------------------
 
   intro: >
-    Use this section to introduce the training team. Briefly
-    describe who develops and delivers the training and the
-    roles represented on the team.
-
-  # --------------------------------------------------
-  # Team members
-  # --------------------------------------------------
+    Introduction to R is developed and taught by researchers and
+    trainers from the SciLifeLab Training Hub and NBIS.
 
   members:
-  
-    # --------------------------------------------------
-    # Training leads
-    # --------------------------------------------------
-    #
-    # Training leads are responsible for the overall
-    # development, coordination, and delivery of the training.
-    #
-    # The "roles" value must contain "Training lead" for the
-    # person to appear in the training-lead section.
-    #
-    # Training leads are shown first in the homepage team
-    # preview, followed by instructors if fewer than two
-    # training leads are available.
 
-    - given_names: "Firstname1"
-      family_names: "Lastname1"
+    - given_names: "Anna"
+      family_names: "Lindqvist"
       roles:
         - Training lead
-      job_title: "Job Title"
-      affiliation: "Institution or organisation"
-      email: "training.lead@example.org"
-      # Set course_contact to true if participants should be able to identify this person as a course contact.
+      job_title: "Training coordinator"
+      affiliation: "SciLifeLab Training Hub, Uppsala University"
+      email: "anna.lindqvist@example.org"
       course_contact: true
       bio: >
-        Provide a 1-to-2-sentence biography describing this person's
-        expertise, role in the training, and relevant experience.
-      # Optional profile links. Leave empty if not applicable.
-      orcid: "https://orcid.org/0000-0000-0000-0000"
-      linkedin: "https://www.linkedin.com/in/example"
-      github: ""
-      website: ""
+        Anna has taught R to life scientists for ten years, and leads
+        the development of this training.
+      orcid: "https://orcid.org/0000-0002-1825-0097"
       image: "img/photos/team-photo.jpeg"
-      citation_author: true
 
-    # Add another training lead if applicable.
-    - given_names: "Firstname2"
-      family_names: "Lastname2"
-      roles:
-        - Training lead
-      job_title: "Job Title"
-      affiliation: "Institution or organisation"
-      email: ""
-      course_contact: false
-      bio: >
-        Provide a 1-to-2-sentence biography describing this person's
-        expertise, role in the training, and relevant experience.
-      orcid: ""
-      linkedin: ""
-      github: "https://github.com/example"
-      website: "https://example.org"
-      image: "img/photos/team-photo.jpeg"
-      citation_author: true
-
-    # --------------------------------------------------
-    # Instructors
-    # --------------------------------------------------
-    #
-    # Instructors teach, facilitate, or otherwise contribute
-    # directly to the educational activities.
-    #
-    # Use the role "Instructor" to place a person in the
-    # instructor section of the full Team page.
-
-    - given_names: "Firstname3"
-      family_names: "Lastname3"
+    - given_names: "Pieter"
+      family_names: "van der Berg"
       roles:
         - Instructor
-      job_title: "Job Title"
-      affiliation: "Institution or organisation"
-      email: "instructor@example.org"
-      course_contact: false
+      job_title: "Bioinformatician"
+      affiliation: "NBIS, Karolinska Institutet"
       bio: >
-        Provide a 1-to-2-sentence biography describing this person's
-        expertise, role in the training, and relevant experience.
-      orcid: ""
-      linkedin: "https://www.linkedin.com/in/example"
-      github: ""
-      website: ""
-      image: "img/photos/team-photo.jpeg"
-      citation_author: true
-
-    # Add another instructor if applicable.
-
-
-    # --------------------------------------------------
-    # Contributors
-    # --------------------------------------------------
-    #
-    # Contributors provide expertise, content, materials,
-    # technical support, or other contributions to the training.
-    #
-    # Use the role "Contributor" to place a person in the
-    # contributor section of the full Team page.
-
-    - given_names: "Firstname4"
-      family_names: "Lastname4"
-      roles:
-        - Contributor
-      job_title: "Job Title"
-      affiliation: "Institution or organisation"
-      email: ""
-      course_contact: false
-      bio: >
-        Provide a 1-to-2-sentence biography describing this person's
-        expertise, role in the training, and relevant experience.
-      orcid: "https://orcid.org/0000-0000-0000-0000"
-      linkedin: ""
+        Pieter analyses sequencing data with R every day, and teaches
+        the modules on data wrangling and plotting.
       github: "https://github.com/example"
-      website: ""
-      image: "img/photos/team-photo.jpeg"
-      citation_author: false
+      image: "img/photos/pieter-van-der-berg.jpeg"
 
-    # Add another contributor if applicable.
-    
-    - given_names: "Firstname5"
-      family_names: "Lastname5"
+    - given_names: "Maria Elena"
+      family_names: "Santos"
+      roles:
+        - Instructor
+      affiliation: "Stockholm University"
+
+    - given_names: "Jonas"
+      family_names: "Ek"
       roles:
         - Contributor
-      job_title: ""
-      affiliation: "Institution or organisation"
-      email: "contributor@example.org"
-      course_contact: false
-      bio: ""
-      orcid: ""
-      linkedin: ""
-      github: ""
-      website: "https://example.org"
-      image: ""
+      affiliation: "SciLifeLab Data Centre"
       citation_author: false

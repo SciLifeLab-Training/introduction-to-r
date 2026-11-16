@@ -1,11 +1,11 @@
 <!-- generated:header -->
-# Training title
+# Introduction to R
 
 [![Licence](https://img.shields.io/badge/licence-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
-*Short subtitle describing the training.*
+*Learn to explore, analyse and visualise your research data with R*
 
-Provide a short description of the training, including its main topic, purpose, or focus.
+This training introduces R, a free and widely used programming language for data analysis and statistics. It is designed for researchers who work with data, but have little or no programming experience. Through short demonstrations and hands-on exercises, you learn how to read data into R, clean and reshape it, summarise it, and create publication-quality plots. You work with real research data throughout, and leave with code you can reuse for your own projects.
 <!-- /generated:header -->
 
 <!-- Write this yourself -->
@@ -21,13 +21,13 @@ website.
 ## Training information
 
 - **Website:** <https://scilifelab-training.github.io/introduction-to-r/2706/>
-- **Dates:** 2026-01-01 – 2026-01-02
-- **Duration:** Number of days
-- **Mode:** Online / In-person / Hybrid
-- **Location:** Venue name or online
-- **Target audience:** Describe the intended participant group
-- **Expertise level:** Beginner / Intermediate / Advanced
-- **Language:** Language the training is provided in
+- **Dates:** 2027-05-17 – 2027-05-19
+- **Duration:** 3 days
+- **Mode:** In-person
+- **Location:** SciLifeLab, Solna
+- **Target audience:** Researchers and PhD students in the life sciences who want to analyse their own data, with little or no programming experience.
+- **Expertise level:** Beginner
+- **Language:** English
 - **Version:** 2706
 <!-- /generated:course-information -->
 
@@ -36,9 +36,11 @@ website.
 
 After completing this training, participants will be able to:
 
-- Add a learning outcome
-- Add another learning outcome
-- Add another learning outcome
+- Use RStudio to write and run R code, and organise your work in projects
+- Read data from spreadsheet and text files into R
+- Clean, filter and reshape data with the tidyverse
+- Summarise data with descriptive statistics
+- Create and customise plots with ggplot2
 <!-- /generated:learning-outcomes -->
 
 ## Repository contents
@@ -72,11 +74,10 @@ preparation and setup, with notes for each module.
 
 | Name | Role | ORCID | Affiliation |
 |------|------|-------|-------------|
-| Firstname1 Lastname1 | Training lead | [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) | Institution or organisation |
-| Firstname2 Lastname2 | Training lead |  | Institution or organisation |
-| Firstname3 Lastname3 | Instructor |  | Institution or organisation |
-| Firstname4 Lastname4 | Contributor | [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) | Institution or organisation |
-| Firstname5 Lastname5 | Contributor |  | Institution or organisation |
+| Anna Lindqvist | Training lead | [0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097) | SciLifeLab Training Hub, Uppsala University |
+| Pieter van der Berg | Instructor |  | NBIS, Karolinska Institutet |
+| Maria Elena Santos | Instructor |  | Stockholm University |
+| Jonas Ek | Contributor |  | SciLifeLab Data Centre |
 <!-- /generated:contributors -->
 
 
@@ -95,7 +96,7 @@ report a problem or suggest a change.
 
 If you use these materials, please cite them as:
 
-> Lastname1, F.; Lastname2, F.; Lastname3, F. Training title. Version 2706. https://scilifelab-training.github.io/introduction-to-r/2706/
+> Lindqvist, A.; van der Berg, P.; Santos, M. E. Introduction to R. Version 2706. https://scilifelab-training.github.io/introduction-to-r/2706/
 
 Citation metadata is available in [CITATION.cff](CITATION.cff).
 <!-- /generated:citation -->
@@ -120,7 +121,7 @@ Unless otherwise stated, the training materials are licensed under [CC BY 4.0](h
 
 This training was funded by:
 
-- Name of funding organisation
+- Introduction to R funder, Introduction to R (grant 101057388)
 <!-- /generated:acknowledgements -->
 
 ---

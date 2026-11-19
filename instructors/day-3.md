@@ -1,15 +1,15 @@
 <!-- Not on the website, but public on GitHub and Zenodo: never write
      passwords, access codes or exam answers here. -->
 
-# Module 1: Introduction
+# Day 3: Plotting
 
 **Time:** 30 min teaching, 15 min exercises
 
-**Module page:** [content/module-1](../content/module-1/)
+**Pages:** [content/day-3](../content/day-3/)
 
 ## Key points
 
-The two or three things participants must take away from this module:
+The two or three things participants must take away from this day:
 
 - ...
 
@@ -24,13 +24,13 @@ The two or three things participants must take away from this module:
 ## Materials
 
 Materials participants use are linked on the
-[module page](../content/module-1/).   
+pages of [day 3](../content/day-3/).   
 
 Materials for instructors only:
 
 | Material | Link | Notes |
 |---|---|---|
-| Slides (editable) | [Link](https://...) | Export to PDF and add it to the module page before the training |
+| Slides (editable) | [Link](https://...) | Export to PDF and link to it from the pages of this day before the training |
 | Demo script | [Link](https://...) | ... |
 | Quiz or poll | [Link](https://...) | Set up a copy before the training |
 

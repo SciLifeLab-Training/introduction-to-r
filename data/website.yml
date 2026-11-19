@@ -128,41 +128,17 @@ website:
 
 
 content:
-# Use this section to define the structure and order of
-# the training content pages navigation.
-#
-# First, decide how to organise your training content.
-# Divide it into modules or other major sections, and
-# create one folder for each section inside the content/
-# directory.
-#
-# Then add one entry below for each folder, in the order
-# you want the sections to appear in the navigation.
-#
-# For each section:
-#
-# - "id" must match the folder name inside content/.
-# - "label" is the short name displayed in the navigation.
-# - "title" is used as the navigation button's tooltip text.
-#
-# For example, an id of "module-1" corresponds to the
-# folder content/module-1/.
-#
-# You can add, remove, rename, or reorder sections to
-# match your training structure. If you rename a section,
-# make sure to update both the folder name and its id here.
-
 
   sections:
 
-    - id: module-1
-      label: "Module 1"
-      title: "How to structure a page"
+    - id: day-1
+      label: "Day 1"
+      title: "Getting started"
 
-    - id: module-2
-      label: "Module 2"
-      title: "How to highlight information"
+    - id: day-2
+      label: "Day 2"
+      title: "Data wrangling"
 
-    - id: module-3
-      label: "Module 3"
-      title: "Module 3 Title"
+    - id: day-3
+      label: "Day 3"
+      title: "Plotting"

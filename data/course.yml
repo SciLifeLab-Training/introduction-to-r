@@ -91,49 +91,18 @@ course:
 
   reuse:
 
-    # Licence
-    # -------
-    # The licence that says how others may reuse the
-    # materials.
-    # "licence" is the name shown on the website, and
-    # "licence_url" is the page that explains the licence.
     licence: "CC BY 4.0"
     licence_url: "https://creativecommons.org/licenses/by/4.0/"
-
-    # Leave empty. Only needed if you use an unusual licence:
-    # then enter its short code from https://spdx.org/licenses/
     licence_id: ""
 
     # DOIs
     # ----
-    # A DOI is a permanent link that makes the training
-    # citable. The DOIs are created by Zenodo when you
-    # publish a release of the training (see the README).
-    # Enter them like this: "10.5281/zenodo.1234567"
-    #
-    # doi: the DOI of the training as a whole. It stays the
-    # same for every time the training is given, and always
-    # points to the latest one. Add it after the very first
-    # release, and keep it when you create new instances.
-    doi: ""
-
-    # version_doi: the DOI of this specific instance (this
-    # time the training is given). Add it after publishing
-    # this instance. Empty it again when you copy this
-    # branch to create a new instance.
-    version_doi: ""
-    # release_date: the date this instance was published on
-    # Zenodo, written as YYYY-MM-DD (for example "2025-05-12").
-    # Add it together with version_doi, and empty it again
-    # when you copy this branch to create a new instance.
-    release_date: ""
+    doi: "10.5072/zenodo.646461"
+    version_doi: "10.5072/zenodo.646462"
+    release_date: "2026-11-20"
 
     # Optional fields
     # ---------------
-    # Leave these empty unless you need them.
-
-    # The version of this instance. When empty, the year and
-    # month from the branch name are used (e.g. 2505).
     version: ""
 
     # The web address of this instance. When empty, it is

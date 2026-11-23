@@ -98,8 +98,8 @@ course:
     # DOIs
     # ----
     doi: "10.5072/zenodo.646461"
-    version_doi: "10.5072/zenodo.646462"
-    release_date: "2026-11-20"
+    version_doi: ""
+    release_date: ""
 
     # Optional fields
     # ---------------

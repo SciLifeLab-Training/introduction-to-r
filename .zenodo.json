@@ -1,7 +1,7 @@
 {
   "title": "Introduction to R",
   "upload_type": "lesson",
-  "description": "<p>This training introduces R, a free and widely used programming language for data analysis and statistics. It is designed for researchers who work with data, but have little or no programming experience. Through short demonstrations and hands-on exercises, you learn how to read data into R, clean and reshape it, summarise it, and create publication-quality plots. You work with real research data throughout, and leave with code you can reuse for your own projects.</p>\n<p>Training dates: 2027-05-17 – 2027-05-19.</p>\n<p>Training website: <a href=\"https://scilifelab-training.github.io/introduction-to-r/2706/\">https://scilifelab-training.github.io/introduction-to-r/2706/</a></p>\n<p>Funded by: Introduction to R funder, Introduction to R (grant 101057388).</p>",
+  "description": "<p>This training introduces R, a free and widely used programming language for data analysis and statistics. It is designed for researchers who work with data, but have little or no programming experience. Through short demonstrations and hands-on exercises, you learn how to read data into R, clean and reshape it, summarise it, and create publication-quality plots. You work with real research data throughout, and leave with code you can reuse for your own projects.</p>\n<p>Training dates: 2027-05-17 – 2027-05-19.</p>\n<p>Training website: <a href=\"https://scilifelab-training.github.io/introduction-to-r/2711/\">https://scilifelab-training.github.io/introduction-to-r/2711/</a></p>\n<p>Funded by: Introduction to R funder, Introduction to R (grant 101057388).</p>",
   "creators": [
     {
       "name": "Lindqvist, Anna",
@@ -32,11 +32,11 @@
   ],
   "license": "cc-by-4.0",
   "access_right": "open",
-  "version": "2706",
+  "version": "2711",
   "language": "eng",
   "related_identifiers": [
     {
-      "identifier": "https://scilifelab-training.github.io/introduction-to-r/2706/",
+      "identifier": "https://scilifelab-training.github.io/introduction-to-r/2711/",
       "relation": "isSupplementedBy",
       "resource_type": "other"
     }

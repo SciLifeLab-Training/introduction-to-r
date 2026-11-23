@@ -27,9 +27,9 @@ keywords:
 - Data visualisation
 - Reproducible research
 license: CC-BY-4.0
-url: https://scilifelab-training.github.io/introduction-to-r/2706/
+url: https://scilifelab-training.github.io/introduction-to-r/2711/
 repository-code: https://github.com/SciLifeLab-Training/introduction-to-r
-version: '2706'
+version: '2711'
 date-released: '2026-11-20'
 doi: 10.5072/zenodo.646462
 identifiers:

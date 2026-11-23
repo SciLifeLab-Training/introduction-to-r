@@ -20,7 +20,7 @@ website.
 <!-- generated:course-information -->
 ## Training information
 
-- **Website:** <https://scilifelab-training.github.io/introduction-to-r/2706/>
+- **Website:** <https://scilifelab-training.github.io/introduction-to-r/2711/>
 - **Dates:** 2027-05-17 – 2027-05-19
 - **Duration:** 3 days
 - **Mode:** In-person
@@ -28,7 +28,7 @@ website.
 - **Target audience:** Researchers and PhD students in the life sciences who want to analyse their own data, with little or no programming experience.
 - **Expertise level:** Beginner
 - **Language:** English
-- **Version:** 2706
+- **Version:** 2711
 - **DOI:** [10.5072/zenodo.646462](https://doi.org/10.5072/zenodo.646462)
 <!-- /generated:course-information -->
 
@@ -97,7 +97,7 @@ report a problem or suggest a change.
 
 If you use these materials, please cite them as:
 
-> Lindqvist, A.; van der Berg, P.; Santos, M. E. (2026). Introduction to R. Version 2706. https://doi.org/10.5072/zenodo.646462
+> Lindqvist, A.; van der Berg, P.; Santos, M. E. (2026). Introduction to R. Version 2711. https://doi.org/10.5072/zenodo.646462
 
 Citation metadata is available in [CITATION.cff](CITATION.cff).
 <!-- /generated:citation -->

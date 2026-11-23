@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n\n\n\n\n\n\nOverview Content Schedule\n\n\nInformation\n\n\nPracticalities Announcements Team Syllabus\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n  17 May 2027 – 19 May 2027 \n  SciLifeLab, Solna \n\n\n\nIn three days, you learn to read, clean, summarise and plot your own research data in R. On this website, you find the schedule, the course materials, and everything you need to prepare.\n\n\n\n\n\n\n\n\n\n\n\n\nRegistration opens soon\n\n\nRegistration for this training opens on 1 February 2027.\n\n\n\n\n\n\n\n\nRegistration is open\n\n\nRegister by 15 April 2027.\n\n\nCost: 2500 SEK\n\n\nFree for PhD students at Swedish universities. Lunch and coffee are included.\n\n\n Register for this training → \n\n\n\n\n\n\nRegistration is closed\n\n\nRegistration for this training is now closed.\n\n\nFor questions or more information, please contact the training team.\n\n\n\n\n\n\n\n\nNEXT UP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n Full schedule → \n\n\n\n\n\n\nQUICK LINKS\n\n\n\n\n\n\n\nModules, R scripts and exercises\n\n View course materials → \n\n\n\n\n\n\n\nLearning outcomes, prerequisites and credits\n\n View syllabus → \n\n\n\n\n\n\n\nThree days of lectures and hands-on exercises\n\n View schedule → \n\n\n\n\n\n\n\nVenue, travel and lunch\n\n View practicalities → \n\n\n\n\n\n\n\n\nANNOUNCEMENTS\n\n\n\n10 May\n\n\n\nOn Monday 17 May, we start at 9:00 in Air & Fire, on the ground floor. Coffee is served from 8:30.\n\n\n\n\n20 April\n\n\n\nPlease install R and RStudio on your laptop before 10 May, and download the course data. The Preparation page explains how.\n\n\nView all announcements →\n\n\n\n\n\nTEAM\n\n\n\n\n\nAnna Lindqvist\n\n\nTraining lead\n\n\nSciLifeLab Training Hub, Uppsala University\n\n\n\n\n\n\n\nPieter van der Berg\n\n\nInstructor\n\n\nNBIS, Karolinska Institutet\n\n\n\n\nView full team →\n\n\n\n\n\n\n\nBy SciLifeLab Training Hub and Organization X. Licensed under CC BY 4.0.\n\n\nThis website was built using the SciLifeLab Training Webpage Template and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "index.html#welcome-to-introduction-to-r",
+    "href": "index.html#welcome-to-introduction-to-r",
+    "title": "Home",
+    "section": "",
+    "text": "In three days, you learn to read, clean, summarise and plot your own research data in R. On this website, you find the schedule, the course materials, and everything you need to prepare."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n\n\n\nIntroduction to R\n\n\n\n\nOverview Content Schedule\n\n\nInformation\n\n\nPracticalities Announcements Team Syllabus\n\n\n\n\n\n\n  \n\n\n\n\n\n\nSchedule\n\n\n  17 May 2027 – 19 May 2027 \n  SciLifeLab, Solna \n\n\n\n\n\n\nGetting started\n\n\nMonday, May 17\n\n\n\n\nData wrangling\n\n\nTuesday, May 18\n\n\n\n\nPlotting\n\n\nWednesday, May 19\n\n\n\n\n\n\nGetting started – Monday, May 17\n\n\n\n09:00–09:30\n\n\n Welcome \n\nWelcome and introductions\n\n\nAnna Lindqvist\n\n\n\n\n Air & Fire, SciLifeLab Solna\n\n\n\n\n\n\n\n\n09:30–10:30\n\n\n Lecture \n\nR and RStudio basics\n\n\nAnna Lindqvist\n\n\n\n\n Air & Fire, SciLifeLab Solna\n\n\n\n\n\n\n\n\n10:30–11:00\n\n\n Break \n\nCoffee break\n\n\n\n\n\n\n\n\n\n\n\n11:00–12:00\n\n\n Practical \n\nReading data into R\n\n\nAnna Lindqvist, Maria Elena Santos\n\n\n\n\n Computer room, SciLifeLab Solna\n\n\n\n\n\n\n\n\n12:00–13:00\n\n\n Lunch \n\nLunch\n\n\n\n\n\n\n\n\n\n\n\n13:00–15:00\n\n\n Exercise \n\nExercise: explore your first dataset\n\n\nMaria Elena Santos\n\n\n\n\n Computer room, SciLifeLab Solna\n\n\n\n\n\n\nData wrangling – Tuesday, May 18\n\n\n\n09:00–10:00\n\n\n Lecture \n\nTidy data and the tidyverse\n\n\nPieter van der Berg\n\n\n\n\n Air & Fire, SciLifeLab Solna\n\n\n\n\n\n\n\n\n10:15–12:00\n\n\n Practical \n\nFilter, select and reshape\n\n\nPieter van der Berg, Maria Elena Santos\n\n\n\n\n Computer room, SciLifeLab Solna\n\n\n\n\n\n\n\n\n12:00–13:00\n\n\n Lunch \n\nLunch\n\n\n\n\n\n\n\n\n\n\n\n13:00–15:00\n\n\n Workshop \n\nDescriptive statistics\n\n\nAnna Lindqvist\n\n\n\n\n Computer room, SciLifeLab Solna\n\n\n\n\n\n\nPlotting – Wednesday, May 19\n\n\n\n09:00–10:00\n\n\n Lecture \n\nIntroduction to ggplot2\n\n\nPieter van der Berg\n\n\n\n\n Air & Fire, SciLifeLab Solna\n\n\n\n\n\n\n\n\n10:15–12:00\n\n\n Practical \n\nBuild and customise your plots\n\n\nPieter van der Berg, Maria Elena Santos\n\n\n\n\n Computer room, SciLifeLab Solna\n\n\n\n\n\n\n\n\n12:00–13:00\n\n\n Lunch \n\nLunch\n\n\n\n\n\n\n\n\n\n\n\n13:00–14:30\n\n\n Assessment \n\nFinal exercise: analyse and plot your own data\n\n\nAnna Lindqvist, Pieter van der Berg\n\n\n\n\n Computer room, SciLifeLab Solna\n\n\n\n\n\n\n\n\n14:30–15:00\n\n\n Feedback \n\nWrap-up and feedback\n\n\nAnna Lindqvist\n\n\n\n\n Air & Fire, SciLifeLab Solna\n\n\n\n\n\n\n\n\n\nBy SciLifeLab Training Hub and Organization X. Licensed under CC BY 4.0.\n\n\nThis website was built using the SciLifeLab Training Webpage Template and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "content/day-2/tidy-data.html",
+    "href": "content/day-2/tidy-data.html",
+    "title": "Tidy data and the tidyverse",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n    \n\n        \n\n            \n\n                \n\nIntroduction to R\n\n                \n\n                \n\n                    \n\nOverview\nContent\nSchedule\n\nInformation\n\nPracticalities\nAnnouncements\nTeam\nSyllabus\n\n\n\n                    \n\n                \n\n            \n\n            \n\n\n\n\n\n            \n\n        \n\n    \n\n\n    \n        \n            \n        \n        \n\n    Introduction\n\n\n    \n        Day 1\n        \n    \n    \n\n    Introduction\n\n\n    R and RStudio basics\n\n\n    Reading data into R\n\n\n\n\n    \n        Day 2\n        \n    \n    \n\n    Tidy data and the tidyverse\n\n\n    Filter, select and reshape\n\n\n\n\n    \n        Day 3\n        \n    \n    \n\n    Introduction to ggplot2\n\n\n    Build and customise your plots\n\n\n\n\n        \n            \n        \n    \n\n\n\n\n\n\nThe materials for this page will be added here."
+  },
+  {
+    "objectID": "content/day-2/filter-and-reshape.html",
+    "href": "content/day-2/filter-and-reshape.html",
+    "title": "Filter, select and reshape",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n    \n\n        \n\n            \n\n                \n\nIntroduction to R\n\n                \n\n                \n\n                    \n\nOverview\nContent\nSchedule\n\nInformation\n\nPracticalities\nAnnouncements\nTeam\nSyllabus\n\n\n\n                    \n\n                \n\n            \n\n            \n\n\n\n\n\n            \n\n        \n\n    \n\n\n    \n        \n            \n        \n        \n\n    Introduction\n\n\n    \n        Day 1\n        \n    \n    \n\n    Introduction\n\n\n    R and RStudio basics\n\n\n    Reading data into R\n\n\n\n\n    \n        Day 2\n        \n    \n    \n\n    Tidy data and the tidyverse\n\n\n    Filter, select and reshape\n\n\n\n\n    \n        Day 3\n        \n    \n    \n\n    Introduction to ggplot2\n\n\n    Build and customise your plots\n\n\n\n\n        \n            \n        \n    \n\n\n\n\n\n\nThe materials for this page will be added here."
+  },
+  {
+    "objectID": "content/day-1/rstudio-basics.html",
+    "href": "content/day-1/rstudio-basics.html",
+    "title": "R and RStudio basics",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n    \n\n        \n\n            \n\n                \n\nIntroduction to R\n\n                \n\n                \n\n                    \n\nOverview\nContent\nSchedule\n\nInformation\n\nPracticalities\nAnnouncements\nTeam\nSyllabus\n\n\n\n                    \n\n                \n\n            \n\n            \n\n\n\n\n\n            \n\n        \n\n    \n\n\n    \n        \n            \n        \n        \n\n    Introduction\n\n\n    \n        Day 1\n        \n    \n    \n\n    Introduction\n\n\n    R and RStudio basics\n\n\n    Reading data into R\n\n\n\n\n    \n        Day 2\n        \n    \n    \n\n    Tidy data and the tidyverse\n\n\n    Filter, select and reshape\n\n\n\n\n    \n        Day 3\n        \n    \n    \n\n    Introduction to ggplot2\n\n\n    Build and customise your plots\n\n\n\n\n        \n            \n        \n    \n\n\n\n\n\n\nThe materials for this page will be added here."
+  },
+  {
+    "objectID": "content/day-1/introduction.html",
+    "href": "content/day-1/introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n    \n\n        \n\n            \n\n                \n\nIntroduction to R\n\n                \n\n                \n\n                    \n\nOverview\nContent\nSchedule\n\nInformation\n\nPracticalities\nAnnouncements\nTeam\nSyllabus\n\n\n\n                    \n\n                \n\n            \n\n            \n\n\n\n\n\n            \n\n        \n\n    \n\n\n    \n        \n            \n        \n        \n\n    Introduction\n\n\n    \n        Day 1\n        \n    \n    \n\n    Introduction\n\n\n    R and RStudio basics\n\n\n    Reading data into R\n\n\n\n\n    \n        Day 2\n        \n    \n    \n\n    Tidy data and the tidyverse\n\n\n    Filter, select and reshape\n\n\n\n\n    \n        Day 3\n        \n    \n    \n\n    Introduction to ggplot2\n\n\n    Build and customise your plots"
+  },
+  {
+    "objectID": "content/day-1/reading-data.html",
+    "href": "content/day-1/reading-data.html",
+    "title": "Reading data into R",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n    \n\n        \n\n            \n\n                \n\n\n\n                \n\n                \n\n                    \n\nOverview\nContent\nSchedule\n\nInformation\n\nPracticalities\nAnnouncements\nTeam\nSyllabus\n\n\n\n                    \n\n                \n\n            \n\n            \n\n\n\n\n\n            \n\n        \n\n    \n\n\n    \n        \n            \n        \n        \n\n    Introduction\n\n\n    \n        Day 1\n        \n    \n    \n\n    Introduction\n\n\n    R and RStudio basics\n\n\n    Reading data into R\n\n\n\n\n    \n        Day 2\n        \n    \n    \n\n    Tidy data and the tidyverse\n\n\n    Filter, select and reshape\n\n\n\n\n    \n        Day 3\n        \n    \n    \n\n    Introduction to ggplot2\n\n\n    Build and customise your plots\nIn this session, you read a spreadsheet into R, and take a first look at your data."
+  },
+  {
+    "objectID": "content/day-1/reading-data.html#the-data",
+    "href": "content/day-1/reading-data.html#the-data",
+    "title": "Reading data into R",
+    "section": "The data",
+    "text": "The data\nWe use measurements of penguins from three islands. Download the file penguins.csv, and save it in your project folder.\n\n\n\nA scatter plot of flipper length against body mass"
+  },
+  {
+    "objectID": "content/day-1/reading-data.html#read-the-file",
+    "href": "content/day-1/reading-data.html#read-the-file",
+    "title": "Reading data into R",
+    "section": "Read the file",
+    "text": "Read the file\nUse read_csv() from the readr package to read the file:\nlibrary(readr)\npenguins &lt;- read_csv(\"penguins.csv\")"
+  },
+  {
+    "objectID": "content/day-1/reading-data.html#exercise",
+    "href": "content/day-1/reading-data.html#exercise",
+    "title": "Reading data into R",
+    "section": "Exercise",
+    "text": "Exercise\nHow many penguins are in the dataset? And how many columns does it have?\n\n\n\n\n\n\nSolution\n\n\n\n\n\nUse nrow() and ncol():\nnrow(penguins)\nncol(penguins)\n\n\n\nWant to know more? See the readr documentation."
+  },
+  {
+    "objectID": "content/day-3/introduction-to-ggplot2.html",
+    "href": "content/day-3/introduction-to-ggplot2.html",
+    "title": "Introduction to ggplot2",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n    \n\n        \n\n            \n\n                \n\nIntroduction to R\n\n                \n\n                \n\n                    \n\nOverview\nContent\nSchedule\n\nInformation\n\nPracticalities\nAnnouncements\nTeam\nSyllabus\n\n\n\n                    \n\n                \n\n            \n\n            \n\n\n\n\n\n            \n\n        \n\n    \n\n\n    \n        \n            \n        \n        \n\n    Introduction\n\n\n    \n        Day 1\n        \n    \n    \n\n    Introduction\n\n\n    R and RStudio basics\n\n\n    Reading data into R\n\n\n\n\n    \n        Day 2\n        \n    \n    \n\n    Tidy data and the tidyverse\n\n\n    Filter, select and reshape\n\n\n\n\n    \n        Day 3\n        \n    \n    \n\n    Introduction to ggplot2\n\n\n    Build and customise your plots\n\n\n\n\n        \n            \n        \n    \n\n\n\n\n\n\nThe materials for this page will be added here."
+  },
+  {
+    "objectID": "content/day-3/customise-your-plots.html",
+    "href": "content/day-3/customise-your-plots.html",
+    "title": "Build and customise your plots",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n    \n\n        \n\n            \n\n                \n\nIntroduction to R\n\n                \n\n                \n\n                    \n\nOverview\nContent\nSchedule\n\nInformation\n\nPracticalities\nAnnouncements\nTeam\nSyllabus\n\n\n\n                    \n\n                \n\n            \n\n            \n\n\n\n\n\n            \n\n        \n\n    \n\n\n    \n        \n            \n        \n        \n\n    Introduction\n\n\n    \n        Day 1\n        \n    \n    \n\n    Introduction\n\n\n    R and RStudio basics\n\n\n    Reading data into R\n\n\n\n\n    \n        Day 2\n        \n    \n    \n\n    Tidy data and the tidyverse\n\n\n    Filter, select and reshape\n\n\n\n\n    \n        Day 3\n        \n    \n    \n\n    Introduction to ggplot2\n\n\n    Build and customise your plots\n\n\n\n\n        \n            \n        \n    \n\n\n\n\n\n\nThe materials for this page will be added here."
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Course materials",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n    \n\n        \n\n            \n\n                \n\nIntroduction to R\n\n                \n\n                \n\n                    \n\nOverview\nContent\nSchedule\n\nInformation\n\nPracticalities\nAnnouncements\nTeam\nSyllabus\n\n\n\n                    \n\n                \n\n            \n\n            \n\n\n\n\n\n            \n\n        \n\n    \n\n\n    \n        \n            \n        \n        \n\n    Introduction\n\n\n    \n        Day 1\n        \n    \n    \n\n    Introduction\n\n\n    R and RStudio basics\n\n\n    Reading data into R\n\n\n\n\n    \n        Day 2\n        \n    \n    \n\n    Tidy data and the tidyverse\n\n\n    Filter, select and reshape\n\n\n\n\n    \n        Day 3\n        \n    \n    \n\n    Introduction to ggplot2\n\n\n    Build and customise your plots\n\n\n\n\n        \n            \n        \n    \n\n\n\n\n\n\nIntroduction to R takes three days. Each day has its own section, with the materials for that day:\n\nDay 1 – Getting started: R and RStudio, and reading your data into R.\nDay 2 – Data wrangling: tidy data, and filtering, selecting and reshaping your data.\nDay 3 – Plotting: making and customising plots with ggplot2."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n\n\n\nIntroduction to R\n\n\n\n\nOverview Content Schedule\n\n\nInformation\n\n\nPracticalities Announcements Team Syllabus\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\nSyllabus\n\n\nIntroduction to R\n\n\nLearn to explore, analyse and visualise your research data with R\n\n\n\n\n\n\nAbstract\n\n\nThis training introduces R, a free and widely used programming language for data analysis and statistics. It is designed for researchers who work with data, but have little or no programming experience.\nThrough short demonstrations and hands-on exercises, you learn how to read data into R, clean and reshape it, summarise it, and create publication-quality plots. You work with real research data throughout, and leave with code you can reuse for your own projects.\n\n\nKeywords: R · Data analysis · Data visualisation · Reproducible research\n\n\n\n\nDetails\n\n\n\n\nDates\n\n\n17 May 2027 – 19 May 2027\n\n\n\n\nDuration\n\n\n3 days\n\n\n\n\nDelivery\n\n\nIn-person\n\n\n\n\nLocation\n\n\nSciLifeLab, Solna\n\n\n\n\nLanguage\n\n\nEnglish\n\n\n\n\nCredits\n\n\n1.5 hpWhether the credits count towards your degree is decided by your own university.\n\n\n\n\n\n\nLearning outcomes\n\n\nAfter completing this training, participants will be able to:\n\n\n\nUse RStudio to write and run R code, and organise your work in projects\n\n\nRead data from spreadsheet and text files into R\n\n\nClean, filter and reshape data with the tidyverse\n\n\nSummarise data with descriptive statistics\n\n\nCreate and customise plots with ggplot2\n\n\n\n\n\nTarget audience\n\n\nResearchers and PhD students in the life sciences who want to analyse their own data, with little or no programming experience.\n\n\nExpertise level: Beginner\n\n\n\n\nPrerequisites\n\n\n\n\nKnowledge\n\n\n\nBasic knowledge of statistics, such as means and standard deviations\n\n\n\n\n\nTechnical\n\n\n\nYour own laptop, with R and RStudio installed (see Preparation)\n\n\n\n\n\n\n\nForms of instruction and examination\n\n\n\n\nForms of instruction\n\n\n\nShort lectures and live coding demonstrations\n\n\nHands-on exercises with real research data\n\n\nGroup discussions\n\n\n\n\n\nForms of examination\n\n\nActive participation in all sessions, and a short final exercise in which you analyse and plot a dataset of your choice.\n\n\n\n\n\n\nAdministration\n\n\n\n\nOrganising organisation(s)\n\n\n\nSciLifeLab Training Hub\n\n\nOrganization X\n\n\n\nContent provider(s)\n\n\n\nNBIS\n\n\n\nFunder(s)\n\n\n\nIntroduction to R funder, Introduction to R (grant 101057388)\n\n\n\n\n\nTeam lead(s)\n\n\n\nAnna Lindqvist SciLifeLab Training Hub, Uppsala University anna.lindqvist@example.org\n\n\n\n\n\n\n\nReuse\n\n\n\n\nLicence\n\n\nCC BY 4.0\n\n\n\n\nDOI\n\n\n10.5072/zenodo.646462\n\n\n\n\nPreferred citation\n\n\nLindqvist, A.; van der Berg, P.; Santos, M. E. (2026). Introduction to R. Version 2711. https://doi.org/10.5072/zenodo.646462\n\n\n\n\n\n\n\n\nBy SciLifeLab Training Hub and Organization X. Licensed under CC BY 4.0.\n\n\nThis website was built using the SciLifeLab Training Webpage Template and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Course team",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n\n\n\nIntroduction to R\n\n\n\n\nOverview Content Schedule\n\n\nInformation\n\n\nPracticalities Announcements Team Syllabus\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\nTraining team\n\n\nMeet the training team\n\n\nIntroduction to R is developed and taught by researchers and trainers from the SciLifeLab Training Hub and NBIS.\n\n\n\n\nTraining leads\n\n\nTraining leads are responsible for the overall development, coordination, and delivery of the training.\n\n\n\n\n\n\nAnna Lindqvist\n\n\nTraining coordinator\n\n\nSciLifeLab Training Hub, Uppsala University\n\n\nTraining contact\n\n\nAnna has taught R to life scientists for ten years, and leads the development of this training.\n\n\n \n\n\n\n\n\n\n\nInstructors\n\n\nInstructors teach, facilitate, or otherwise contribute directly to the educational activities.\n\n\n\n\n\n\nPieter van der Berg\n\n\nBioinformatician\n\n\nNBIS, Karolinska Institutet\n\n\nPieter analyses sequencing data with R every day, and teaches the modules on data wrangling and plotting.\n\n\n\n\n\n\n\n\n\nMaria Elena Santos\n\n\nStockholm University\n\n\n\n\n\n\n\nContributors\n\n\nContributors provide expertise, content, materials, or other support to the training.\n\n\n\n\n\nJonas Ek\n\n\nSciLifeLab Data Centre\n\n\n\n\n\n\n\n\n\nBy SciLifeLab Training Hub and Organization X. Licensed under CC BY 4.0.\n\n\nThis website was built using the SciLifeLab Training Webpage Template and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "practicalities.html",
+    "href": "practicalities.html",
+    "title": "Practicalities",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n\n\n\nIntroduction to R\n\n\n\n\nOverview Content Schedule\n\n\nInformation\n\n\nPracticalities Announcements Team Syllabus\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nPracticalities\n\n\nPractical information\n\n\nEverything you need to know to find your way to Introduction to R, and to make the most of your three days in Solna.\n\n\n\n\n\n\n\nQuestions about the training?\n\n\nGet in touch with the training team.\n\nintro-r@example.org\n\n\n\n\nVenue\n\n\nThe training will take place at SciLifeLab Solna in Solna.\n\n\n\n\nAddress\n\nTomtebodavägen 23A171 65 SolnaSweden\n\n\n\nRoom\n\nAir & Fire (lectures) and the computer room (exercises)\n\n\n\nEntrance\n\nEnter through the main entrance, and collect your visitor badge at the reception on the ground floor. Air & Fire is on the ground floor, next to the café. Someone from the team will walk you to the computer room after the first session.\n\n\n\n\n\n\n\n\nOpen map \n\n\n\n\n\nTransport\n\n\nThe nearest stops are Karolinska institutet västra (bus) and Solna station (commuter train), both about a ten-minute walk away.\n\n\n\nSL, public transport in Stockholm\n\n\n\n\n\nAccommodation\n\n\nAccommodation is not included. These hotels are within walking distance of the venue.\n\n\n\n\n\n\n\nHotel\n\n\nDistance\n\n\nWalking time\n\n\n\n\n\n\nHotel Example Solna\n\n\n600 m\n\n\n8 minutes\n\n\n\n\nExample Hostel Hagastaden\n\n\n1.5 km\n\n\n20 minutes\n\n\n\n\n\n\n\n\n\nFood & refreshments\n\n\nCoffee, tea and fruit are served during the breaks, and lunch is included on all three days.\n\n\nTell us about allergies or dietary requirements when you register, or email intro-r@example.org at least one week before the training.\n\n\n\n\nOther information\n\n\n\n\nWhat to bring\n\n\nYour own laptop and charger, with R and RStudio installed. See the Preparation page for instructions.\n\n\n\n\nWi-Fi\n\n\nUse eduroam if your university has it. Otherwise, ask at the reception for a guest account.\n\n\n\n\n\n\n\n\nBy SciLifeLab Training Hub and Organization X. Licensed under CC BY 4.0.\n\n\nThis website was built using the SciLifeLab Training Webpage Template and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n\n\n\nIntroduction to R\n\n\n\n\nOverview Content Schedule\n\n\nInformation\n\n\nPracticalities Announcements Team Syllabus\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\nBy SciLifeLab Training Hub and Organization X. Licensed under CC BY 4.0.\n\n\nThis website was built using the SciLifeLab Training Webpage Template and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "preparation.html",
+    "href": "preparation.html",
+    "title": "Before the course",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n\n\n\nIntroduction to R\n\n\n\n\nOverview Content Schedule\n\n\nInformation\n\n\nPracticalities Announcements Team Syllabus\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\nBy SciLifeLab Training Hub and Organization X. Licensed under CC BY 4.0.\n\n\nThis website was built using the SciLifeLab Training Webpage Template and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n\n\n\nIntroduction to R\n\n\n\n\nOverview Content Schedule\n\n\nInformation\n\n\nPracticalities Announcements Team Syllabus\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\nBy SciLifeLab Training Hub and Organization X. Licensed under CC BY 4.0.\n\n\nThis website was built using the SciLifeLab Training Webpage Template and is hosted on GitHub Pages."
+  },
+  {
+    "objectID": "announcements.html",
+    "href": "announcements.html",
+    "title": "Announcements",
+    "section": "",
+    "text": "This is an older instance of this training. For the latest information, visit the newest training instance:  →\n\n\n\n\n\n\n\nIntroduction to R\n\n\n\n\nOverview Content Schedule\n\n\nInformation\n\n\nPracticalities Announcements Team Syllabus\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\nAnnouncements\n\n\nTraining updates\n\n\nNews and updates about Introduction to R. The newest announcements are shown first.\n\n\n\n\n\n10 May 2027\n\n\nDay 1 starts in Air & Fire\n\n\nOn Monday 17 May, we start at 9:00 in Air & Fire, on the ground floor. Coffee is served from 8:30.\n\n\n\n\n20 April 2027\n\n\nInstall R and RStudio before the training\n\n\nPlease install R and RStudio on your laptop before 10 May, and download the course data. The Preparation page explains how.\n\n\n\n\n1 February 2027\n\n\nRegistration is open\n\n\nYou can now register for Introduction to R, until 15 April. Places are limited to 25 participants.\n\n\n\n\n\n\n\nBy SciLifeLab Training Hub and Organization X. Licensed under CC BY 4.0.\n\n\nThis website was built using the SciLifeLab Training Webpage Template and is hosted on GitHub Pages."
+  }
+]

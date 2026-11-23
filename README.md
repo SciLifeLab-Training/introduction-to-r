@@ -1,7 +1,7 @@
 <!-- generated:header -->
 # Introduction to R
 
-[![DOI](https://zenodo.org/badge/DOI/10.5072/zenodo.646462.svg)](https://doi.org/10.5072/zenodo.646462) [![Licence](https://img.shields.io/badge/licence-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5072/zenodo.646461.svg)](https://doi.org/10.5072/zenodo.646461) [![Licence](https://img.shields.io/badge/licence-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
 *Learn to explore, analyse and visualise your research data with R*
 
@@ -29,7 +29,7 @@ website.
 - **Expertise level:** Beginner
 - **Language:** English
 - **Version:** 2711
-- **DOI:** [10.5072/zenodo.646462](https://doi.org/10.5072/zenodo.646462)
+- **DOI:** [10.5072/zenodo.646461](https://doi.org/10.5072/zenodo.646461)
 <!-- /generated:course-information -->
 
 <!-- generated:learning-outcomes -->
@@ -97,7 +97,7 @@ report a problem or suggest a change.
 
 If you use these materials, please cite them as:
 
-> Lindqvist, A.; van der Berg, P.; Santos, M. E. (2026). Introduction to R. Version 2711. https://doi.org/10.5072/zenodo.646462
+> Lindqvist, A.; van der Berg, P.; Santos, M. E. Introduction to R. Version 2711. https://doi.org/10.5072/zenodo.646461
 
 Citation metadata is available in [CITATION.cff](CITATION.cff).
 <!-- /generated:citation -->

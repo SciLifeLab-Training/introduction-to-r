@@ -1,0 +1,64 @@
+<div class="course-practicalities-page">
+<header class="course-practicalities-header">
+<div class="course-practicalities-header-main">
+<div class="course-page-label">Practicalities</div>
+<h1 class="course-page-title">Practical information</h1>
+<p class="course-page-intro course-page-intro-narrow">Everything you need to know to find your way to Introduction to R, and to make the most of your three days in Solna.
+</p>
+</div>
+<div class="course-page-contact">
+<div class="course-page-contact-icon"><i class="bi bi-envelope"></i></div>
+<div class="course-page-contact-title">Questions about the training?</div>
+<p>Get in touch with the training team.</p>
+<a class="course-text-link" href="mailto:intro-r@example.org">intro-r@example.org</a>
+</div>
+</header>
+<section class="course-practicalities-section">
+<h2><i class="bi bi-geo-alt-fill" aria-hidden="true"></i>Venue</h2>
+<p>The training will take place at SciLifeLab Solna in Solna.</p>
+<div class="course-practicalities-venue">
+<div class="course-practicalities-venue-details"><div><strong>Address</strong><div class="course-practicalities-address">Tomtebodavägen 23A<br>171 65 Solna<br>Sweden<br></div></div>
+<div><strong>Room</strong><div>Air & Fire (lectures) and the computer room (exercises)</div></div>
+<div><strong>Entrance</strong><div>Enter through the main entrance, and collect your visitor badge at the reception on the ground floor. Air & Fire is on the ground floor, next to the café. Someone from the team will walk you to the computer room after the first session.
+</div></div></div>
+<div class="course-practicalities-map-column"><div class="course-practicalities-map"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.021758000000002,59.349537,18.023008,59.350787&layer=mapnik&marker=59.350162,18.022383" title="Venue map" loading="lazy"></iframe></div><a class="course-practicalities-map-link" href="https://www.openstreetmap.org/?mlat=59.350162&mlon=18.022383#map=19/59.350162/18.022383" target="_blank" rel="noopener"><i class="bi bi-box-arrow-up-right" aria-hidden="true"></i>Open map </a></div>
+</div>
+</section>
+<section class="course-practicalities-section">
+<h2><i class="bi bi-bus-front-fill" aria-hidden="true"></i>Transport</h2>
+<p>The nearest stops are Karolinska institutet västra (bus) and Solna station (commuter train), both about a ten-minute walk away.
+</p>
+<ul class="course-practicalities-links">
+<li><a class="course-text-link" href="https://sl.se/en" target="_blank" rel="noopener">SL, public transport in Stockholm</a></li>
+</ul>
+</section>
+<section class="course-practicalities-section">
+<h2><i class="bi bi-building" aria-hidden="true"></i>Accommodation</h2>
+<p>Accommodation is not included. These hotels are within walking distance of the venue.
+</p>
+<div class="course-practicalities-table-wrapper">
+<table class="course-practicalities-table">
+<thead><tr><th>Hotel</th><th>Distance</th><th>Walking time</th></tr></thead>
+<tbody>
+<tr><td><a class="course-text-link" href="https://example.org/hotel-solna" target="_blank" rel="noopener">Hotel Example Solna</a></td><td>600 m</td><td>8 minutes</td></tr>
+<tr><td>Example Hostel Hagastaden</td><td>1.5 km</td><td>20 minutes</td></tr>
+</tbody>
+</table>
+</div>
+</section>
+<section class="course-practicalities-section">
+<h2><i class="bi bi-cup-hot-fill" aria-hidden="true"></i>Food &amp; refreshments</h2>
+<p>Coffee, tea and fruit are served during the breaks, and lunch is included on all three days.
+</p>
+<p>Tell us about allergies or dietary requirements when you register, or email intro-r@example.org at least one week before the training.
+</p>
+</section>
+<section class="course-practicalities-section">
+<h2><i class="bi bi-file-earmark-text-fill" aria-hidden="true"></i>Other information</h2>
+<div class="course-practicalities-additional">
+<div class="course-practicalities-additional-item"><h3>What to bring</h3><p>Your own laptop and charger, with R and RStudio installed. See the Preparation page for instructions.
+</p></div>
+<div class="course-practicalities-additional-item"><h3>Wi-Fi</h3><p>Use eduroam if your university has it. Otherwise, ask at the reception for a guest account.</p></div>
+</div>
+</section>
+</div>

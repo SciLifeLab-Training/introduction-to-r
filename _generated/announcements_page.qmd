@@ -1,0 +1,27 @@
+<div class="course-announcements-page">
+<header class="course-announcements-header">
+<div class="course-page-label">Announcements</div>
+<h1 class="course-page-title">Training updates</h1>
+<p class="course-page-intro course-page-intro-narrow">News and updates about Introduction to R. The newest announcements are shown first.
+</p>
+</header>
+<main class="course-announcements-list">
+<article class="course-announcement-page-item">
+<div class="course-announcement-page-date">10 May 2027</div>
+<h2 class="course-announcement-page-title">Day 1 starts in Air & Fire</h2>
+<p class="course-announcement-page-text">On Monday 17 May, we start at 9:00 in Air & Fire, on the ground floor. Coffee is served from 8:30.</p>
+</article>
+<article class="course-announcement-page-item">
+<div class="course-announcement-page-date">20 April 2027</div>
+<h2 class="course-announcement-page-title">Install R and RStudio before the training</h2>
+<p class="course-announcement-page-text">Please install R and RStudio on your laptop before 10 May, and download the course data. The Preparation page explains how.
+</p>
+</article>
+<article class="course-announcement-page-item">
+<div class="course-announcement-page-date">1 February 2027</div>
+<h2 class="course-announcement-page-title">Registration is open</h2>
+<p class="course-announcement-page-text">You can now register for Introduction to R, until 15 April. Places are limited to 25 participants.
+</p>
+</article>
+</main>
+</div>

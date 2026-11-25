@@ -1,0 +1,691 @@
+<div class="course-page-header">
+
+<h1>Schedule</h1>
+
+<div class="course-page-meta">
+
+
+<span class="course-welcome-item">
+<i class="bi bi-calendar2-event"></i>
+17 May 2027 – 19 May 2027
+</span>
+
+<span class="course-welcome-item">
+<i class="bi bi-geo-alt"></i>
+SciLifeLab, Solna
+</span>
+
+
+</div>
+
+</div>
+
+<div class="course-schedule">
+
+<div class="course-schedule-sidebar">
+
+
+<button
+    type="button"
+    class="course-schedule-day-link"
+    data-day="getting-started">
+
+<div class="course-schedule-day-name">
+Getting started
+</div>
+
+<div class="course-schedule-day-date">
+Monday, May 17
+</div>
+
+</button>
+
+<button
+    type="button"
+    class="course-schedule-day-link"
+    data-day="data-wrangling">
+
+<div class="course-schedule-day-name">
+Data wrangling
+</div>
+
+<div class="course-schedule-day-date">
+Tuesday, May 18
+</div>
+
+</button>
+
+<button
+    type="button"
+    class="course-schedule-day-link"
+    data-day="plotting">
+
+<div class="course-schedule-day-name">
+Plotting
+</div>
+
+<div class="course-schedule-day-date">
+Wednesday, May 19
+</div>
+
+</button>
+
+
+</div>
+
+<div class="course-schedule-timeline">
+
+
+<section
+id="getting-started"
+class="course-schedule-day">
+
+<h2 class="course-schedule-day-heading">
+Getting started – Monday, May 17
+</h2>
+
+
+<div class="course-schedule-event course-type-welcome">
+
+
+
+<div class="course-schedule-time">
+09:00–09:30
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-welcome">
+Welcome
+</span>
+
+<h3 class="course-schedule-title">
+Welcome and introductions
+</h3>
+
+
+<div class="course-schedule-speaker">
+Anna Lindqvist
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Air & Fire, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-lecture">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+09:30–10:30
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-lecture">
+Lecture
+</span>
+
+<h3 class="course-schedule-title">
+R and RStudio basics
+</h3>
+
+
+<div class="course-schedule-speaker">
+Anna Lindqvist
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Air & Fire, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-break">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+10:30–11:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-break">
+Break
+</span>
+
+<h3 class="course-schedule-title">
+Coffee break
+</h3>
+
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-practical">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+11:00–12:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-practical">
+Practical
+</span>
+
+<h3 class="course-schedule-title">
+Reading data into R
+</h3>
+
+
+<div class="course-schedule-speaker">
+Anna Lindqvist, Maria Elena Santos
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Computer room, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-lunch">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+12:00–13:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-lunch">
+Lunch
+</span>
+
+<h3 class="course-schedule-title">
+Lunch
+</h3>
+
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-exercise">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+13:00–15:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-exercise">
+Exercise
+</span>
+
+<h3 class="course-schedule-title">
+Exercise: explore your first dataset
+</h3>
+
+
+<div class="course-schedule-speaker">
+Maria Elena Santos
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Computer room, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+
+</section>
+
+<section
+id="data-wrangling"
+class="course-schedule-day">
+
+<h2 class="course-schedule-day-heading">
+Data wrangling – Tuesday, May 18
+</h2>
+
+
+<div class="course-schedule-event course-type-lecture">
+
+
+
+<div class="course-schedule-time">
+09:00–10:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-lecture">
+Lecture
+</span>
+
+<h3 class="course-schedule-title">
+Tidy data and the tidyverse
+</h3>
+
+
+<div class="course-schedule-speaker">
+Pieter van der Berg
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Air & Fire, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-practical">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+10:15–12:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-practical">
+Practical
+</span>
+
+<h3 class="course-schedule-title">
+Filter, select and reshape
+</h3>
+
+
+<div class="course-schedule-speaker">
+Pieter van der Berg, Maria Elena Santos
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Computer room, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-lunch">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+12:00–13:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-lunch">
+Lunch
+</span>
+
+<h3 class="course-schedule-title">
+Lunch
+</h3>
+
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-workshop">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+13:00–15:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-workshop">
+Workshop
+</span>
+
+<h3 class="course-schedule-title">
+Descriptive statistics
+</h3>
+
+
+<div class="course-schedule-speaker">
+Anna Lindqvist
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Computer room, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+
+</section>
+
+<section
+id="plotting"
+class="course-schedule-day">
+
+<h2 class="course-schedule-day-heading">
+Plotting – Wednesday, May 19
+</h2>
+
+
+<div class="course-schedule-event course-type-lecture">
+
+
+
+<div class="course-schedule-time">
+09:00–10:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-lecture">
+Lecture
+</span>
+
+<h3 class="course-schedule-title">
+Introduction to ggplot2
+</h3>
+
+
+<div class="course-schedule-speaker">
+Pieter van der Berg
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Air & Fire, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-practical">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+10:15–12:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-practical">
+Practical
+</span>
+
+<h3 class="course-schedule-title">
+Build and customise your plots
+</h3>
+
+
+<div class="course-schedule-speaker">
+Pieter van der Berg, Maria Elena Santos
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Computer room, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-lunch">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+12:00–13:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-lunch">
+Lunch
+</span>
+
+<h3 class="course-schedule-title">
+Lunch
+</h3>
+
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-assessment">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+13:00–14:30
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-assessment">
+Assessment
+</span>
+
+<h3 class="course-schedule-title">
+Final exercise: analyse and plot your own data
+</h3>
+
+
+<div class="course-schedule-speaker">
+Anna Lindqvist, Pieter van der Berg
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Computer room, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+<div class="course-schedule-event course-type-feedback">
+
+
+<div class="course-schedule-separator"></div>
+
+
+<div class="course-schedule-time">
+14:30–15:00
+</div>
+
+<div class="course-schedule-details">
+
+<span class="course-upcoming-type course-type-feedback">
+Feedback
+</span>
+
+<h3 class="course-schedule-title">
+Wrap-up and feedback
+</h3>
+
+
+<div class="course-schedule-speaker">
+Anna Lindqvist
+</div>
+
+
+</div>
+
+<div class="course-schedule-location-column">
+
+
+<div class="course-schedule-location">
+<i class="bi bi-geo-alt"></i>
+Air & Fire, SciLifeLab Solna
+</div>
+
+
+</div>
+
+</div>
+
+
+</section>
+
+
+</div>
+
+</div>

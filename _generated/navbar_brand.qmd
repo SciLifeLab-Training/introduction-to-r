@@ -1,0 +1,3 @@
+<img src="img/nbis-neg.png" alt="NBIS" class="course-navbar-logo" style="height: 26px; width: auto;">
+<img src="img/scilifelab-logo-full-neg.png" alt="SciLifeLab" class="course-navbar-logo course-navbar-logo-full" style="height: 46px; width: auto;">
+<img src="img/scilifelab-logo-neg.png" alt="" class="course-navbar-logo course-navbar-logo-symbol" style="height: 46px; width: auto;">

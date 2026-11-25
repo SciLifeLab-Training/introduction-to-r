@@ -1,0 +1,27 @@
+::: {.course-announcements}
+
+<div class="course-announcements-content">
+
+<div class="course-section-label">
+
+ANNOUNCEMENTS
+
+</div>
+
+<div class="course-announcement">
+
+<div class="course-announcement-date">10 May</div>
+<h3 class="course-announcement-title">Day 1 starts in Air & Fire</h3>
+<p>On Monday 17 May, we start at 9:00 in Air & Fire, on the ground floor. Coffee is served from 8:30.</p>
+</div><div class="course-announcement">
+
+<div class="course-announcement-date">20 April</div>
+<h3 class="course-announcement-title">Install R and RStudio before the training</h3>
+<p>Please install R and RStudio on your laptop before 10 May, and download the course data. The Preparation page explains how.
+</p>
+</div>
+
+<a class="course-announcements-link course-text-link" href="announcements.qmd">View all announcements →</a>
+</div>
+
+:::

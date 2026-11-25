@@ -1,0 +1,64 @@
+<div class="course-team-page">
+<header class="course-team-page-header">
+<div class="course-page-label">Training team</div>
+<h1 class="course-page-title">Meet the training team</h1>
+<p class="course-page-intro">Introduction to R is developed and taught by researchers and trainers from the SciLifeLab Training Hub and NBIS.
+</p>
+</header>
+<section class="course-team-section">
+<h2>Training leads</h2>
+<p class="course-team-section-description">Training leads are responsible for the overall development, coordination, and delivery of the training.</p>
+<div class="course-team-grid-leads">
+<article class="course-team-card">
+<img class="course-team-card-photo" src="img/photos/team-photo.jpeg" alt="Anna Lindqvist">
+<div class="course-team-card-body">
+<h3 class="course-team-card-name">Anna Lindqvist</h3>
+<div class="course-team-card-job-title">Training coordinator</div>
+<div class="course-team-card-affiliation">SciLifeLab Training Hub, Uppsala University</div>
+<div class="course-team-card-contact">
+<span class="course-team-contact-badge">Training contact</span>
+</div>
+<p class="course-team-card-bio">Anna has taught R to life scientists for ten years, and leads the development of this training.
+</p>
+<div class="course-team-card-links"><a href="mailto:anna.lindqvist@example.org" aria-label="Email" title="Email"><i class="bi bi-envelope"></i></a>
+<a href="https://orcid.org/0000-0002-1825-0097" target="_blank" rel="noopener" aria-label="ORCID" title="ORCID"><img src="https://cdn.simpleicons.org/orcid" alt="" class="course-team-social-icon"></a></div>
+</div>
+</article>
+</div>
+</section>
+<section class="course-team-section">
+<h2>Instructors</h2>
+<p class="course-team-section-description">Instructors teach, facilitate, or otherwise contribute directly to the educational activities.</p>
+<div class="course-team-grid-members">
+<article class="course-team-card">
+<img class="course-team-card-photo" src="img/photos/pieter-van-der-berg.jpeg" alt="Pieter van der Berg">
+<div class="course-team-card-body">
+<h3 class="course-team-card-name">Pieter van der Berg</h3>
+<div class="course-team-card-job-title">Bioinformatician</div>
+<div class="course-team-card-affiliation">NBIS, Karolinska Institutet</div>
+<p class="course-team-card-bio">Pieter analyses sequencing data with R every day, and teaches the modules on data wrangling and plotting.
+</p>
+<div class="course-team-card-links"><a href="https://github.com/example" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub"><i class="bi bi-github"></i></a></div>
+</div>
+</article>
+<article class="course-team-card">
+<div class="course-team-card-body">
+<h3 class="course-team-card-name">Maria Elena Santos</h3>
+<div class="course-team-card-affiliation">Stockholm University</div>
+</div>
+</article>
+</div>
+</section>
+<section class="course-team-section">
+<h2>Contributors</h2>
+<p class="course-team-section-description">Contributors provide expertise, content, materials, or other support to the training.</p>
+<div class="course-team-grid-members">
+<article class="course-team-card">
+<div class="course-team-card-body">
+<h3 class="course-team-card-name">Jonas Ek</h3>
+<div class="course-team-card-affiliation">SciLifeLab Data Centre</div>
+</div>
+</article>
+</div>
+</section>
+</div>

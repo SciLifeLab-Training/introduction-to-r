@@ -1,0 +1,67 @@
+::: {.course-team}
+
+<div class="course-team-content">
+
+<div class="course-section-label">
+
+TEAM
+
+</div>
+
+<div class="course-team-member">
+
+<img
+    class="course-team-photo"
+    src="img/photos/team-photo.jpeg"
+    alt="Anna Lindqvist">
+
+<div class="course-team-details">
+
+<div class="course-team-name">
+Anna Lindqvist
+</div>
+
+<div class="course-team-role">
+Training lead
+</div>
+
+<div class="course-team-affiliation">
+SciLifeLab Training Hub, Uppsala University
+</div>
+
+</div>
+
+</div><div class="course-team-member">
+
+<img
+    class="course-team-photo"
+    src="img/photos/pieter-van-der-berg.jpeg"
+    alt="Pieter van der Berg">
+
+<div class="course-team-details">
+
+<div class="course-team-name">
+Pieter van der Berg
+</div>
+
+<div class="course-team-role">
+Instructor
+</div>
+
+<div class="course-team-affiliation">
+NBIS, Karolinska Institutet
+</div>
+
+</div>
+
+</div>
+
+<a class="course-team-link course-text-link" href="team.qmd">
+
+View full team →
+
+</a>
+
+</div>
+
+:::

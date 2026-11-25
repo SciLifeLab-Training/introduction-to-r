@@ -1,0 +1,28 @@
+<div class="course-welcome-text">
+
+# Introduction to R
+
+<div class="course-welcome-meta">
+<span class="course-welcome-item">
+<i class="bi bi-calendar2-event"></i>
+17 May 2027 – 19 May 2027
+</span>
+
+<span class="course-welcome-item">
+<i class="bi bi-geo-alt"></i>
+SciLifeLab, Solna
+</span>
+</div>
+
+## Welcome to Introduction to R
+
+In three days, you learn to read, clean, summarise and plot your own research data in R. On this website, you find the schedule, the course materials, and everything you need to prepare.
+
+
+</div>
+
+<div class="course-welcome-image">
+
+<img src="img/intro-r-welcome.svg" alt="Welcome illustration" class="course-welcome-graphic">
+
+</div>

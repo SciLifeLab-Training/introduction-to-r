@@ -1,0 +1,122 @@
+<div class="course-syllabus-header">
+<div class="course-syllabus-header-main">
+<div class="course-page-label">Syllabus</div>
+<h1 class="course-page-title">Introduction to R</h1>
+<p class="course-page-intro">Learn to explore, analyse and visualise your research data with R</p>
+</div>
+</div>
+<div class="course-syllabus">
+<section class="course-syllabus-section">
+<h2>Abstract</h2>
+<p>This training introduces R, a free and widely used programming language
+for data analysis and statistics. It is designed for researchers who
+work with data, but have little or no programming experience.
+
+Through short demonstrations and hands-on exercises, you learn how to
+read data into R, clean and reshape it, summarise it, and create
+publication-quality plots. You work with real research data throughout,
+and leave with code you can reuse for your own projects.
+</p>
+<p class="course-syllabus-keywords"><strong>Keywords:</strong> R · Data analysis · Data visualisation · Reproducible research</p>
+</section>
+<section class="course-syllabus-section">
+<h2>Details</h2>
+<dl class="course-syllabus-details">
+<div><dt>Dates</dt><dd>17 May 2027 – 19 May 2027</dd></div>
+<div><dt>Duration</dt><dd>3 days</dd></div>
+<div><dt>Delivery</dt><dd>In-person</dd></div>
+<div><dt>Location</dt><dd>SciLifeLab, Solna</dd></div>
+<div><dt>Language</dt><dd>English</dd></div>
+<div><dt>Credits</dt><dd>1.5 hp<br><span class="course-syllabus-note">Whether the credits count towards your degree is decided by your own university.</span></dd></div>
+</dl>
+</section>
+<section class="course-syllabus-section">
+<h2>Learning outcomes</h2>
+<p>After completing this training, participants will be able to:</p>
+<ol class="course-syllabus-outcomes">
+<li><span class="course-syllabus-outcome-number"></span><span class="course-syllabus-outcome-text">Use RStudio to write and run R code, and organise your work in projects</span></li>
+<li><span class="course-syllabus-outcome-number"></span><span class="course-syllabus-outcome-text">Read data from spreadsheet and text files into R</span></li>
+<li><span class="course-syllabus-outcome-number"></span><span class="course-syllabus-outcome-text">Clean, filter and reshape data with the tidyverse</span></li>
+<li><span class="course-syllabus-outcome-number"></span><span class="course-syllabus-outcome-text">Summarise data with descriptive statistics</span></li>
+<li><span class="course-syllabus-outcome-number"></span><span class="course-syllabus-outcome-text">Create and customise plots with ggplot2</span></li>
+</ol>
+</section>
+<section class="course-syllabus-section">
+<h2>Target audience</h2>
+<p>Researchers and PhD students in the life sciences who want to analyse their own data, with little or no programming experience.</p>
+<p><strong>Expertise level:</strong> Beginner</p>
+</section>
+<section class="course-syllabus-section">
+<h2>Prerequisites</h2>
+<div class="course-syllabus-columns">
+<div class="course-syllabus-column">
+<h3>Knowledge</h3>
+<ul>
+<li>Basic knowledge of statistics, such as means and standard deviations</li>
+</ul>
+</div>
+<div class="course-syllabus-column">
+<h3>Technical</h3>
+<ul>
+<li>Your own laptop, with R and RStudio installed (see Preparation)</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="course-syllabus-section">
+<h2>Forms of instruction and examination</h2>
+<div class="course-syllabus-columns">
+<div class="course-syllabus-column">
+<h3>Forms of instruction</h3>
+<ul>
+<li>Short lectures and live coding demonstrations</li>
+<li>Hands-on exercises with real research data</li>
+<li>Group discussions</li>
+</ul>
+</div>
+<div class="course-syllabus-column">
+<h3>Forms of examination</h3>
+<p>Active participation in all sessions, and a short final exercise in which you analyse and plot a dataset of your choice.
+</p>
+</div>
+</div>
+</section>
+<section class="course-syllabus-section">
+<h2>Administration</h2>
+<div class="course-syllabus-columns">
+<div class="course-syllabus-column">
+<h3>Organising organisation(s)</h3>
+<ul>
+<li>SciLifeLab Training Hub</li>
+<li>Organization X</li>
+</ul>
+<h3>Content provider(s)</h3>
+<ul>
+<li>NBIS</li>
+</ul>
+<h3>Funder(s)</h3>
+<ul>
+<li>Introduction to R funder, Introduction to R (grant 101057388)</li>
+</ul>
+</div>
+<div class="course-syllabus-column">
+<h3>Team lead(s)</h3>
+<div class="course-syllabus-leaders">
+<div class="course-syllabus-leader">
+<strong>Anna Lindqvist</strong>
+<span>SciLifeLab Training Hub, Uppsala University</span>
+<a class="course-text-link" href="mailto:anna.lindqvist@example.org">anna.lindqvist@example.org</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="course-syllabus-section">
+<h2>Reuse</h2>
+<dl class="course-syllabus-details course-syllabus-reuse">
+<div><dt>Licence</dt><dd><a class="course-text-link" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd></div>
+<div><dt>DOI</dt><dd><a class="course-text-link" href="https://doi.org/10.5072/zenodo.646462" target="_blank" rel="noopener">10.5072/zenodo.646462</a></dd></div>
+<div class="course-syllabus-preferred-citation"><dt>Preferred citation</dt><dd>Lindqvist, A.; van der Berg, P.; Santos, M. E. (2026). Introduction to R. Version 2706. https://doi.org/10.5072/zenodo.646462</dd></div>
+</dl>
+</section>
+</div>
